@@ -46,5 +46,7 @@ Transfering data over Bluetooth
 - Nodejs application example on Android: https://medium.freecodecamp.org/building-a-node-js-application-on-android-part-2-express-and-nedb-ced04caea7bb
 - Termux API : https://termux.com/add-on-api.html
 - Building multiple repositories : https://stackoverflow.com/questions/28101444/how-to-include-multiple-repositories-in-build-gradle
+
+
   
 
