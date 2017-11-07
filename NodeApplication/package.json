@@ -1,0 +1,26 @@
+{
+  "name": "node-android-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymerta/node-android-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raymerta/node-android-app/issues"
+  },
+  "homepage": "https://github.com/raymerta/node-android-app#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
