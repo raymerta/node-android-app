@@ -19,7 +19,7 @@ Establishing RFCOMM channels/sockets
 Connecting to a remote device 
 Transfering data over Bluetooth
 
-##Bluetooth API on Termux
+## Bluetooth API on Termux
 
 **How to Install & Use the API**
 
