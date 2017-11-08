@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,98,143",
+                        "endColumns": "42,44,53",
+                        "endOffsets": "93,138,192"
+                    }
+                }
+            ]
+        }
+    ]
+}

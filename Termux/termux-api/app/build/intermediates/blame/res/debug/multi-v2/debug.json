@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "15,23,11,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "668,997,503,56",
+                        "endLines": "21,23,13,9",
+                        "endColumns": "12,36,12,12",
+                        "endOffsets": "991,1029,662,497"
+                    },
+                    "to": {
+                        "startLines": "8,15,16,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "563,891,927,1091",
+                        "endLines": "14,15,18,25",
+                        "endColumns": "12,35,12,12",
+                        "endOffsets": "886,922,1086,1532"
+                    }
+                },
+                {
+                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "49",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                },
+                {
+                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,6,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,167,230,103",
+                        "endColumns": "47,61,98,63",
+                        "endOffsets": "98,224,324,162"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "290,338,400,499",
+                        "endColumns": "47,61,98,63",
+                        "endOffsets": "333,395,494,558"
+                    }
+                }
+            ]
+        }
+    ]
+}
