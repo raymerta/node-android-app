@@ -1,4 +1,4 @@
-#Tue Oct 31 07:05:47 EET 2017
-base.0=/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/transforms/dexMerger/debug/7
+#Wed Nov 08 12:48:13 EET 2017
+base.0=/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/transforms/dexMerger/debug/7
 renamed.0=classes.dex
-file.0=/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex
+file.0=/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex

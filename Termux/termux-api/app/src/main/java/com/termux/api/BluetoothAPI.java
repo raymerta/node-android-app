@@ -8,10 +8,6 @@ import android.util.JsonWriter;
 
 import com.termux.api.util.ResultReturner;
 
-/**
- * Created by raditaliem on 31/10/2017.
- */
-
 public class BluetoothAPI {
     static void onReceive(TermuxApiReceiver apiReceiver, final Context context, final Intent intent) {
         ResultReturner.returnData(apiReceiver, intent, new ResultReturner.ResultJsonWriter() {

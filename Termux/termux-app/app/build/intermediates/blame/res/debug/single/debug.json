@@ -1,218 +1,218 @@
 [
     {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_right_material.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_right_material.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_banner.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/banner.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_main.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/layout/extra_keys_main.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_right.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/layout/extra_keys_right.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_right_mtrl_alpha.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_right_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_line_in_drawer.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/layout/line_in_drawer.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_left_material.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_left_material.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_drawer_layout.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/layout/drawer_layout.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_selected_session_background.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/selected_session_background.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/raw_bell.ogg.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/raw/bell.ogg"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_terminal_scroll_shape.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/terminal_scroll_shape.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_service_notification.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/ic_service_notification.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/xml_backupscheme.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/xml/backupscheme.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_new_session.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/ic_new_session.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_session_ripple.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/session_ripple.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_current_session.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/drawable/current_session.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/xml_shortcuts.xml.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/xml/shortcuts.xml"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_left_mtrl_alpha.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_left_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_new_session.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/ic_new_session.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/raw_bell.ogg.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/raw/bell.ogg"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_drawer_layout.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_left_material.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_left_material.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/xml_backupscheme.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/xml/backupscheme.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_text_select_handle_right_material.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable/text_select_handle_right_material.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_terminal_scroll_shape.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/terminal_scroll_shape.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_current_session.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/current_session.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_right.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/layout/extra_keys_right.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_session_ripple.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/session_ripple.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_extra_keys_main.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/layout/extra_keys_main.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_left_mtrl_alpha.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_left_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_banner.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/banner.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_text_select_handle_right_mtrl_alpha.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-view/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/text_select_handle_right_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout_line_in_drawer.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/layout/line_in_drawer.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_ic_service_notification.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/ic_service_notification.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/xml_shortcuts.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
         "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/drawable_selected_session_background.xml.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/drawable/selected_session_background.xml"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/layout-v21/notification_template_custom_big.xml"
     }
 ]

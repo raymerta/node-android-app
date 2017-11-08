@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/debug/jniLibs"/></dataSet></merger>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/styles.xml",
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "15,23,11,3",
                         "startColumns": "4,4,4,4",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "49",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    }
-                },
-                {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-api/app/src/main/res/values/strings.xml",
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,4,6,3",
                         "startColumns": "4,4,4,4",
@@ -54,6 +37,23 @@
                         "startOffsets": "290,338,400,499",
                         "endColumns": "47,61,98,63",
                         "endOffsets": "333,395,494,558"
+                    }
+                },
+                {
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "49",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
                     }
                 }
             ]

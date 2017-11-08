@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/raditaliem/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/45c17124a29867dc79ab4d574bdb31f9/res/values-is/values-is.xml",

@@ -1,23 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:1-2:12
 	package
-		ADDED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:11-40
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml:1:11-40
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
 uses-sdk
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-		ADDED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-		ADDED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
-		INJECTED from /Users/raditaliem/AndroidStudioProjects/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml
+		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-emulator/src/main/AndroidManifest.xml

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/values/styles.xml",
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "22,5",
                         "startColumns": "1,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/app/src/main/res/values/strings.xml",
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,16,15,18,14,17,13,33,48,49,47,11,32,21,20,4,5,43,44,45,7,23,27,25,29,26,28,38,37,36,35,30,10,3,8,41,40,9,6",
                         "startColumns": "3,3,3,3,3,3,3,2,2,2,2,3,2,3,3,3,3,2,2,2,3,3,2,2,2,2,2,2,2,2,2,2,3,3,3,2,2,3,3",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/raditaliem/AndroidStudioProjects/termux-app/terminal-view/build/intermediates/bundles/debug/res/values/values.xml",
+                    "source": "/Users/raditaliem/Sites/node-android-app/Termux/termux-app/terminal-view/build/intermediates/bundles/debug/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

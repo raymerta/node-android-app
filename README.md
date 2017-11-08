@@ -19,6 +19,29 @@ Establishing RFCOMM channels/sockets
 Connecting to a remote device 
 Transfering data over Bluetooth
 
+##Bluetooth API on Termux
+
+**How to Install & Use the API**
+
+Unfortunately, you have to build everything from termux app, termux api, and termux api script packages. Here's the guideline to navigate: 
+
+- build termux-app, make sure to clean project if there's installation problem especially if you have existing termux version
+- build termux-api, remove default activity from buid configuration
+- install git : pkg install git
+- install libllvm : pkg install libllvm
+- install make : pkg install make
+- install clang	: apt install clang
+- clone this repository
+- navigate to folder termux-api-package
+- execute 'make'
+- execute './termux-api Bluetooth'
+
+Script to debug termux api: 
+
+```
+logcat -s termux:* termux-api:*
+```
+
 
 ## Progress: 
 
