@@ -1,17 +1,32 @@
-s#!/data/data/com.termux/files/usr/bin/sh
+#!/data/data/com.termux/files/usr/bin/sh
 set -e -u
 
 SCRIPTNAME=termux-bluetooth
 show_usage () {
-    echo "Usage: $SCRIPTNAME"
-    echo "Get the status of bluetooth service."
+    echo "usage: $SCRIPTNAME [-a action]"
+    echo "Get Bluetooth functionality."
+    echo "  -a action  action available [status/pair/send] "
     exit 0
 }
 
-while getopts :h option
+validate_action () {
+    ACTION=$1
+    case "$ACTION" in
+        status) ;;
+        pair) ;;
+        send) ;;
+        *) echo "$SCRIPTNAME: Unsupported action: '$ACTION'"; exit 1;;
+    esac
+}
+
+
+PARAMS=""
+
+while getopts :hr:p: option
 do
     case "$option" in
         h) show_usage;;
+        a) validate_provider $OPTARG; PARAMS="$PARAMS --es provider $OPTARG";;
         ?) echo "$SCRIPTNAME: illegal option -$OPTARG"; exit 1;
     esac
 done
@@ -19,4 +34,4 @@ shift $(($OPTIND-1))
 
 if [ $# != 0 ]; then echo "$SCRIPTNAME: too many arguments"; exit 1; fi
 
-/data/data/com.termux/files/usr/libexec/termux-api Bluetooth
+/data/data/com.termux/files/usr/libexec/termux-api Bluetooth $PARAMS

@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
-INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
 	package
 		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:3:5-29
 		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
@@ -15,11 +15,11 @@ INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src
 		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:4:5-38
 	android:versionName
 		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
 		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-64:12
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:1-66:12
 		INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:2:11-69
@@ -77,132 +77,140 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:20:5-76
 	android:name
 		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:20:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:22:22-71
 uses-feature#android.hardware.camera
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:24:5-85
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:5-85
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:24:58-82
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:58-82
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:24:19-57
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:25:5-95
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:5-95
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:25:68-92
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:68-92
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:25:19-67
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:19-67
 uses-feature#android.hardware.location
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:5-87
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:5-87
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:60-84
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:60-84
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:26:19-59
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:19-59
 uses-feature#android.hardware.location.gps
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:5-91
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:5-91
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:64-88
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:64-88
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:27:19-63
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:19-63
 uses-feature#android.hardware.location.network
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:5-95
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:5-95
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:68-92
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:68-92
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:28:19-67
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:19-67
 uses-feature#android.hardware.microphone
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:5-89
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:5-89
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:62-86
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:62-86
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:29:19-61
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:19-61
 uses-feature#android.hardware.telephony
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:5-88
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:32:5-88
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:61-85
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:32:61-85
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:30:19-60
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:32:19-60
 uses-feature#android.hardware.wifi
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:5-83
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:33:5-83
 	android:required
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:56-80
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:33:56-80
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:31:19-55
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:33:19-55
 permission#com.termux.sharedfiles.READ
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:35:5-98
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:37:5-98
 	android:protectionLevel
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:35:60-95
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:37:60-95
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:35:17-59
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:37:17-59
 application
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:37:5-62:19
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:39:5-64:19
 	android:supportsRtl
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:42:9-35
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:44:9-35
 	android:label
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:41:9-41
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:43:9-41
 	android:roundIcon
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:40:9-54
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:42:9-54
 	android:icon
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:39:9-43
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:41:9-43
 	android:allowBackup
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:38:9-35
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:40:9-35
 	android:theme
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:43:9-60
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:9-60
 receiver#com.termux.api.TermuxApiReceiver
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:44:9-68
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:46:9-68
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:44:19-66
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:46:19-66
 activity#com.termux.api.DialogActivity
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:9-214
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:9-214
 	android:excludeFromRecents
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:154-187
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:154-187
 	android:noHistory
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:129-153
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:129-153
 	android:exported
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:188-212
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:188-212
 	android:theme
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:64-128
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:64-128
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:45:19-63
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:19-63
 activity#com.termux.api.util.TermuxApiPermissionActivity
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:46:9-50:45
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:48:9-52:45
 	android:excludeFromRecents
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:49:19-52
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:51:19-52
 	android:noHistory
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:48:19-43
-	android:exported
 		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:50:19-43
+	android:exported
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:52:19-43
 	android:theme
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:47:19-65
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:49:19-65
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:46:19-81
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:48:19-81
 activity#com.termux.api.StorageGetAPI$StorageActivity
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:51:9-54:45
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:53:9-56:45
 	android:excludeFromRecents
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:53:19-52
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:55:19-52
 	android:exported
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:54:19-43
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:56:19-43
 	android:theme
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:52:19-78
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:54:19-78
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:51:19-78
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:53:19-78
 service#com.termux.api.SpeechToTextAPI$SpeechToTextService
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:55:9-85
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:57:9-85
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:55:18-83
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:57:18-83
 service#com.termux.api.TextToSpeechAPI$TextToSpeechService
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:56:9-86
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:58:9-86
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:56:18-83
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:58:18-83
 provider#com.termux.api.ShareAPI$ContentProvider
-ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:57:9-61:70
+ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:59:9-63:70
 	android:readPermission
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:58:13-65
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:60:13-65
 	android:grantUriPermissions
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:60:13-47
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:62:13-47
 	android:authorities
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:57:19-63
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:59:19-63
 	android:exported
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:59:13-36
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:61:13-36
 	android:name
-		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:61:13-67
+		ADDED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml:63:13-67
 uses-sdk
 INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/src/main/AndroidManifest.xml
