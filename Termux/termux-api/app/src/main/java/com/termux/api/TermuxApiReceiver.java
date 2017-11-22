@@ -4,6 +4,8 @@ import android.Manifest;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
 
 import com.termux.api.util.TermuxApiLogger;
 import com.termux.api.util.TermuxApiPermissionActivity;
@@ -12,6 +14,7 @@ public class TermuxApiReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
+
         String apiMethod = intent.getStringExtra("api_method");
         if (apiMethod == null) {
             TermuxApiLogger.error("Missing 'api_method' extra");
@@ -20,6 +23,9 @@ public class TermuxApiReceiver extends BroadcastReceiver {
 
         switch (apiMethod) {
             case "Bluetooth":
+                BluetoothAPI.onReceive(this, context, intent);
+                break;
+            case "BluetoothPair":
                 BluetoothAPI.onReceive(this, context, intent);
                 break;
             case "BatteryStatus":

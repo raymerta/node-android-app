@@ -5,6 +5,7 @@ import android.bluetooth.BluetoothDevice;
 import android.content.Context;
 import android.content.Intent;
 import android.util.JsonWriter;
+import android.util.Log;
 
 import com.termux.api.util.ResultReturner;
 
@@ -17,12 +18,21 @@ public class BluetoothAPI {
             public void writeJson(JsonWriter out) throws Exception {
                 BluetoothAdapter bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
                 BluetoothAvailable bluetoothAvailable = new BluetoothAvailable(bluetoothAdapter);
+                Log.d("API",intent.getStringExtra("api_method"));
                 final String actionExtra = intent.getStringExtra("action");
 
                 if (actionExtra == null) {
                     out.beginObject();
                     out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
+                    out.name("BluetoothEnabled").value(bluetoothAvailable.getEnabledMessage());
+
+                    if (bluetoothAvailable.getEnabledStatus()) {
+                        out.name("DeviceName").value(bluetoothAvailable.getDeviceName());
+                        out.name("DeviceAddress").value(bluetoothAvailable.getDeviceAddress());
+                    }
+
                     out.endObject();
+
                 } else {
                     if (bluetoothAvailable.getStatus()) {
 

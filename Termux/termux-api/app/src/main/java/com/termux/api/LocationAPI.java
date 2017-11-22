@@ -29,7 +29,10 @@ public class LocationAPI {
             public void writeJson(final JsonWriter out) throws Exception {
                 LocationManager manager = (LocationManager) context.getSystemService(Context.LOCATION_SERVICE);
 
+                Log.d("API","Location");
+
                 String provider = intent.getStringExtra("provider");
+
                 if (provider == null)
                     provider = LocationManager.GPS_PROVIDER;
                 if (!(provider.equals(LocationManager.GPS_PROVIDER) || provider.equals(LocationManager.NETWORK_PROVIDER) || provider
