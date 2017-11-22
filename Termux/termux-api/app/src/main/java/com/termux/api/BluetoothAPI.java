@@ -56,11 +56,11 @@ public class BluetoothAPI {
                             }
 
                         } else if (actionExtra == "activate") {
-
+                            //TODO
                         } else if (actionExtra == "deactivate") {
-
+                            //TODO
                         } else if (actionExtra == "send") {
-
+                            //TODO
                         } else {
                             out.beginObject();
                             out.name("Error").value("Action unknown");
