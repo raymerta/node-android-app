@@ -11,53 +11,24 @@ import com.termux.api.util.ResultReturner;
 
 import java.util.Set;
 
-public class BluetoothAPI {
+public class BluetoothStatusAPI {
     static void onReceive(TermuxApiReceiver apiReceiver, final Context context, final Intent intent) {
         ResultReturner.returnData(apiReceiver, intent, new ResultReturner.ResultJsonWriter() {
             @Override
             public void writeJson(JsonWriter out) throws Exception {
                 BluetoothAdapter bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
                 BluetoothAvailable bluetoothAvailable = new BluetoothAvailable(bluetoothAdapter);
-                final String actionExtra = intent.getStringExtra("action");
 
-                Log.d("API", actionExtra);
+                out.beginObject();
+                out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
+                out.name("BluetoothEnabled").value(bluetoothAvailable.getEnabledMessage());
 
-                if (actionExtra == null) {
+                if (bluetoothAvailable.getEnabledStatus()) {
+                    out.name("DeviceName").value(bluetoothAvailable.getDeviceName());
+                    out.name("DeviceAddress").value(bluetoothAvailable.getDeviceAddress());
 
-                    out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
-
-                } else {
-                    if (bluetoothAvailable.getStatus()) {
-
-                        if (actionExtra == "status") {
-                            out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
-                            out.name("BluetoothEnabled").value(bluetoothAvailable.getEnabledMessage());
-
-                            if (bluetoothAvailable.getEnabledStatus()) {
-                                out.name("DeviceName").value(bluetoothAvailable.getDeviceName());
-                                out.name("DeviceAddress").value(bluetoothAvailable.getDeviceAddress());
-                            }
-
-                        } else if (actionExtra == "pair") {
-
-                            if (bluetoothAvailable.getEnabledStatus()) {
-                                for (BluetoothDevice device : bluetoothAvailable.getDevices()) {
-                                    out.name(device.getName()).value(device.getAddress());
-                                }
-                            }
-
-                        } else if (actionExtra == "activate") {
-                            //TODO
-                        } else if (actionExtra == "deactivate") {
-                            //TODO
-                        } else if (actionExtra == "send") {
-                            //TODO
-                        } else {
-                            out.name("Error").value("Action unknown");
-                        }
-
-                    } else {
-                        out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
+                    for (BluetoothDevice device : bluetoothAvailable.getDevices()) {
+                        out.name(device.getName()).value(device.getAddress());
                     }
                 }
                 out.endObject();

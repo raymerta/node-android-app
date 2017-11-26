@@ -4,8 +4,6 @@ import android.Manifest;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.os.Bundle;
-import android.util.Log;
 
 import com.termux.api.util.TermuxApiLogger;
 import com.termux.api.util.TermuxApiPermissionActivity;
@@ -22,14 +20,11 @@ public class TermuxApiReceiver extends BroadcastReceiver {
         }
 
         switch (apiMethod) {
-            case "Bluetooth":
-                BluetoothAPI.onReceive(this, context, intent);
+            case "BluetoothStatus":
+                BluetoothStatusAPI.onReceive(this, context, intent);
                 break;
-            case "BluetoothPair":
-                BluetoothAPI.onReceive(this, context, intent);
-                break;
-            case "BatteryStatus":
-                BatteryStatusAPI.onReceive(this, context, intent);
+            case "BluetoothSend":
+                BluetoothSendAPI.onReceive(this, context, intent);
                 break;
             case "CameraInfo":
                 CameraInfoAPI.onReceive(this, context, intent);

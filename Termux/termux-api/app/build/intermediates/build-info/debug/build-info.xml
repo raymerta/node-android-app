@@ -6,25 +6,28 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.0"
-    timestamp="1511696423666"
+    timestamp="1511715382992"
     token="-7678358376048002580"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1027" />
+        duration="5626" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="42" />
+        duration="317" />
     <task
         name="verifier"
         duration="11" />
 
     <artifact
         location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
         location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/outputs/apk/debug/app-debug.apk"
@@ -51,18 +54,18 @@
         location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1511696423666"
+        timestamp="1511715382992"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/outputs/apk/debug/app-debug.apk"
@@ -87,9 +90,6 @@
             type="SPLIT" />
         <artifact
             location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/raditaliem/Sites/node-android-app/Termux/termux-api/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
