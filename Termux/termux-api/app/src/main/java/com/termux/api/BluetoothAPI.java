@@ -21,23 +21,15 @@ public class BluetoothAPI {
                 Log.d("API",intent.getStringExtra("api_method"));
                 final String actionExtra = intent.getStringExtra("action");
 
+                out.beginObject();
                 if (actionExtra == null) {
-                    out.beginObject();
+
                     out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
-                    out.name("BluetoothEnabled").value(bluetoothAvailable.getEnabledMessage());
-
-                    if (bluetoothAvailable.getEnabledStatus()) {
-                        out.name("DeviceName").value(bluetoothAvailable.getDeviceName());
-                        out.name("DeviceAddress").value(bluetoothAvailable.getDeviceAddress());
-                    }
-
-                    out.endObject();
 
                 } else {
                     if (bluetoothAvailable.getStatus()) {
 
                         if (actionExtra == "status") {
-                            out.beginObject();
                             out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
                             out.name("BluetoothEnabled").value(bluetoothAvailable.getEnabledMessage());
 
@@ -46,7 +38,6 @@ public class BluetoothAPI {
                                 out.name("DeviceAddress").value(bluetoothAvailable.getDeviceAddress());
                             }
 
-                            out.endObject();
                         } else if (actionExtra == "pair") {
 
                             if (bluetoothAvailable.getEnabledStatus()) {
@@ -62,17 +53,14 @@ public class BluetoothAPI {
                         } else if (actionExtra == "send") {
                             //TODO
                         } else {
-                            out.beginObject();
                             out.name("Error").value("Action unknown");
-                            out.endObject();
                         }
 
                     } else {
-                        out.beginObject();
                         out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
-                        out.endObject();
                     }
                 }
+                out.endObject();
 
 
             }

@@ -7,9 +7,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43396747-9ed2-4703-84ab-8bd0b6daa4c5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$1.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$1.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothActive.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothActive.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothAvailable.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothAvailable.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothActive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothAvailable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothActive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothAvailable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../README.md" afterPath="$PROJECT_DIR$/../../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.idea/misc.xml" afterPath="$PROJECT_DIR$/../termux-api/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothAPI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,14 +99,14 @@
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
           </provider>
         </entry>
       </file>
@@ -3641,6 +3694,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3655,9 +3711,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -3749,7 +3802,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511376745680" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511696714708" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3849,7 +3902,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511376745681" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511696714708" />
       </method>
     </configuration>
     <list size="1">
@@ -3894,13 +3947,14 @@
     <frame x="0" y="23" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3248" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3921,7 +3975,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -3939,6 +3992,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/terminal-emulator/src/main/jni/Android.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/app/TermuxOpenReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2325">

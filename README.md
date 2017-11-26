@@ -33,8 +33,8 @@ Unfortunately, you have to build everything from termux app, termux api, and ter
 - install clang	: apt install clang
 - clone this repository
 - navigate to folder termux-api-package
-- execute 'make'
-- execute './termux-api Bluetooth'
+- execute 'make install'
+- execute 'termux-bluetooth'
 
 Script to debug termux api: 
 

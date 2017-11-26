@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.0"
-    timestamp="1511349446906"
+    timestamp="1511696376635"
     token="6861561399553949321"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1511349446906"
+        timestamp="1511696376635"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/raditaliem/Sites/node-android-app/Termux/termux-app/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
