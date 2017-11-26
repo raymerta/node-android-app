@@ -18,10 +18,10 @@ public class BluetoothAPI {
             public void writeJson(JsonWriter out) throws Exception {
                 BluetoothAdapter bluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
                 BluetoothAvailable bluetoothAvailable = new BluetoothAvailable(bluetoothAdapter);
-                Log.d("API",intent.getStringExtra("api_method"));
                 final String actionExtra = intent.getStringExtra("action");
 
-                out.beginObject();
+                Log.d("API", actionExtra);
+
                 if (actionExtra == null) {
 
                     out.name(bluetoothAvailable.getTag()).value(bluetoothAvailable.getMessage());
