@@ -10,57 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1613752a-06de-493c-b8d2-fc14630ca815" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothSendAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/util/BluetoothChatService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/util/Constants.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api-package/scripts/termux-bluetooth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothActive.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothAvailable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.2/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.2/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.2/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../termux-app/.gradle/4.2.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/../termux-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothStatusAPI.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothStatusAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/termux/api/TermuxApiReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/TermuxApiReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothSendAPI.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothSendAPI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../termux-app/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-app/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/../termux-app/app/build/intermediates/build-info/debug/build-info.xml" />
     </list>
@@ -111,12 +64,26 @@
       <file leaf-file-name="BluetoothSendAPI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothSendAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="196">
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1756#4225#0" expanded="true" />
-                <element signature="e#4224#4225#0" expanded="true" />
+                <element signature="e#1135#1385#0" expanded="true" />
+                <element signature="e#1384#1385#0" expanded="true" />
+                <element signature="e#2453#4922#0" expanded="true" />
+                <element signature="e#4921#4922#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsSendAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/SmsSendAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,7 +92,7 @@
       <file leaf-file-name="BluetoothChatService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/util/BluetoothChatService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3630">
+            <state relative-caret-position="3333">
               <caret line="244" column="46" lean-forward="false" selection-start-line="244" selection-start-column="46" selection-end-line="244" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,28 +107,6 @@
             <state relative-caret-position="105">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TermuxApiReceiver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/TermuxApiReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmsSendAPI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/SmsSendAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -232,6 +177,7 @@
       <find>endObject</find>
       <find>accept</find>
       <find>beginObject</find>
+      <find>mHanlde</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2175,7 +2121,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511715403325" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511718760975" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2223,7 +2169,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511715403326" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511718760976" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2406,7 +2352,7 @@
       <option name="ACTIVITY_CLASS" value="com.termux.api.DialogActivity" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511715403335" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511718760988" />
       </method>
     </configuration>
     <list size="1">
@@ -2905,10 +2851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/util/Constants.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/TermuxApiReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="-478">
+          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -2925,28 +2871,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/TermuxApiReceiver.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/util/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/SmsSendAPI.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/util/BluetoothChatService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="3333">
+          <caret line="244" column="46" lean-forward="false" selection-start-line="244" selection-start-column="46" selection-end-line="244" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/util/BluetoothChatService.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/SmsSendAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3630">
-          <caret line="244" column="46" lean-forward="false" selection-start-line="244" selection-start-column="46" selection-end-line="244" selection-end-column="46" />
+        <state relative-caret-position="302">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="32" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2955,12 +2901,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/api/BluetoothSendAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="196">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1756#4225#0" expanded="true" />
-            <element signature="e#4224#4225#0" expanded="true" />
+            <element signature="e#1135#1385#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#2453#4922#0" expanded="true" />
+            <element signature="e#4921#4922#0" expanded="true" />
           </folding>
         </state>
       </provider>

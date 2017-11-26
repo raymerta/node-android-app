@@ -7,57 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43396747-9ed2-4703-84ab-8bd0b6daa4c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothSendAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/util/BluetoothChatService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/util/Constants.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api-package/scripts/termux-bluetooth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothActive.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI$BluetoothAvailable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothAPI.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothActive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI$BluetoothAvailable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothAPI.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../README.md" afterPath="$PROJECT_DIR$/../../README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothStatusAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothStatusAPI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/TermuxApiReceiver.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/TermuxApiReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothSendAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothSendAPI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
     </list>
@@ -87,8 +42,8 @@
       <file leaf-file-name="TermuxOpenReceiver.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/app/TermuxOpenReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="129">
+              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -3829,7 +3784,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511715403543" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511718761269" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3929,7 +3884,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511715403544" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511718761269" />
       </method>
     </configuration>
     <list size="1">
@@ -4472,8 +4427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/app/TermuxOpenReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="129">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding />
         </state>
       </provider>

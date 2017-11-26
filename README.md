@@ -34,7 +34,7 @@ Unfortunately, you have to build everything from termux app, termux api, and ter
 - clone this repository
 - navigate to folder termux-api-package
 - execute 'make install'
-- execute 'termux-bluetooth'
+- execute 'termux-bluetooth-status'
 
 Script to debug termux api: 
 

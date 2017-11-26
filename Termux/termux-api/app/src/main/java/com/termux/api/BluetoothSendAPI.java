@@ -8,6 +8,10 @@ import android.util.Log;
 
 import com.termux.api.util.BluetoothChatService;
 import com.termux.api.util.Constants;
+import com.termux.api.util.ResultReturner;
+
+import java.io.PrintWriter;
+import java.util.ArrayList;
 
 /**
  * Created by raditaliem on 26/11/2017.
@@ -26,8 +30,23 @@ public class BluetoothSendAPI {
     private static BluetoothChatService mChatService = null;
 
     public static void onReceive(TermuxApiReceiver apiReceiver, Context context, Intent intent) {
-        sendMessage("hello");
 
+        Log.d("BluetoothSend","inititate chat service");
+
+        // Initialize the BluetoothChatService to perform bluetooth connections
+        mChatService = new BluetoothChatService(context, mHandler);
+
+        // Initialize the buffer for outgoing messages
+        mOutStringBuffer = new StringBuffer("");
+
+        ResultReturner.returnData(apiReceiver, intent, new ResultReturner.WithStringInput() {
+            @Override
+            public void writeResult(PrintWriter out) throws Exception {
+                Log.d("inputString", inputString);
+                sendMessage(inputString);
+            }
+
+        });
     }
 
     /**
@@ -58,7 +77,7 @@ public class BluetoothSendAPI {
     /**
      * The Handler that gets information back from the BluetoothChatService
      */
-    private final Handler mHandler = new Handler() {
+    private static final Handler mHandler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
             //FragmentActivity activity = getActivity();
