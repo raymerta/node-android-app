@@ -26,6 +26,7 @@ public class BluetoothConnectionAPI {
     private static String recipient = "";
     private static TermuxApiReceiver termuxBluetoothApiReceiver = null;
     private static Intent termuxBluetoothIntent = null;
+    private static Boolean isReceiveMethod = true;
 
     /**
      * Local Bluetooth adapter
@@ -78,6 +79,7 @@ public class BluetoothConnectionAPI {
     public static void onSend(TermuxApiReceiver apiReceiver, Context context, Intent intent) {
         termuxBluetoothApiReceiver = apiReceiver;
         termuxBluetoothIntent = intent;
+        isReceiveMethod = false;
 
         // Get local Bluetooth adapter
 
@@ -165,7 +167,10 @@ public class BluetoothConnectionAPI {
                         case BluetoothChatService.STATE_CONNECTED:
                             //setStatus(getString(R.string.title_connected_to, mConnectedDeviceName));
                             //mConversationArrayAdapter.clear();
-                            BluetoothConnectionAPI.sendMessage(message);
+                            if (!isReceiveMethod) {
+                                BluetoothConnectionAPI.sendMessage(message);
+                            }
+
                             break;
                         case BluetoothChatService.STATE_CONNECTING:
                             //setStatus(R.string.title_connecting);
@@ -189,14 +194,16 @@ public class BluetoothConnectionAPI {
                     final String readMessage = new String(readBuf, 0, msg.arg1);
                     //mConversationArrayAdapter.add(mConnectedDeviceName + ":  " + readMessage);
 
-                    ResultReturner.returnData(termuxBluetoothApiReceiver, termuxBluetoothIntent, new ResultReturner.ResultJsonWriter() {
-                        @Override
-                        public void writeJson(JsonWriter out) throws Exception {
-                            out.beginObject();
-                            out.name(recipient).value(readMessage);
-                            out.endObject();
-                        }
-                    });
+                    if (isReceiveMethod) {
+                        ResultReturner.returnData(termuxBluetoothApiReceiver, termuxBluetoothIntent, new ResultReturner.ResultJsonWriter() {
+                            @Override
+                            public void writeJson(JsonWriter out) throws Exception {
+                                out.beginObject();
+                                out.name(recipient).value(readMessage);
+                                out.endObject();
+                            }
+                        });
+                    }
 
                     break;
                 case Constants.MESSAGE_DEVICE_NAME:

@@ -5,9 +5,280 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="43396747-9ed2-4703-84ab-8bd0b6daa4c5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothSendAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothConnectionAPI.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/generated/mockable-android-26.v3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/generated/source/buildConfig/androidTest/debug/com/termux/api/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/generated/source/r/androidTest/debug/com/termux/api/test/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/splits-support/androidTest/debug/split-list.gson" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/android/tools/ir/dummy/slice_0.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/BluetoothChatService$AcceptThread.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/BluetoothChatService$ConnectThread.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/BluetoothChatService$ConnectedThread.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/BluetoothChatService.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/Constants.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner$ResultJsonWriter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner$ResultWriter.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner$WithInput.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner$WithStringInput.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/ResultReturner.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/TermuxApiLogger.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/TermuxApiPermissionActivity$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/10/com/termux/api/util/TermuxApiPermissionActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/11/com/android/tools/ir/dummy/slice_1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/12/com/android/tools/ir/dummy/slice_2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/13/com/android/tools/ir/dummy/slice_3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/14/com/android/tools/ir/dummy/slice_4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/15/com/android/tools/ir/dummy/slice_5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/16/com/android/tools/ir/dummy/slice_6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/17/com/android/tools/ir/dummy/slice_7.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/18/com/android/tools/ir/dummy/slice_8.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/android/tools/ir/dummy/slice_9.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BatteryStatusAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BatteryStatusAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$2$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$2$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothStatusAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothStatusAPI$BluetoothActive.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothStatusAPI$BluetoothAvailable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothStatusAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BuildConfig.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/CameraInfoAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/CameraInfoAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ClipboardAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ClipboardAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ClipboardAPI$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ClipboardAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ContactListAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ContactListAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$2$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$2$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$3$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DialogActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DownloadAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/DownloadAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/InfraredAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/InfraredAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/InfraredAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/LocationAPI$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/LocationAPI$1$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/LocationAPI$1$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/LocationAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/LocationAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/Manifest$permission.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/Manifest.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/NotificationAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/NotificationAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$4$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$4.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$5.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI$6.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/PhotoAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$attr.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$color.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$drawable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$id.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$layout.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$mipmap.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$string.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$style.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R$styleable.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/R.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ShareAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ShareAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ShareAPI$ContentProvider.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ShareAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SmsInboxAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SmsInboxAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SmsSendAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SmsSendAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI$SpeechToTextService$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI$SpeechToTextService$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI$SpeechToTextService$3.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI$SpeechToTextService.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/SpeechToTextAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/StorageGetAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/StorageGetAPI$StorageActivity.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/StorageGetAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TelephonyAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TelephonyAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TelephonyAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TermuxApiReceiver.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TextToSpeechAPI$TextToSpeechService$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TextToSpeechAPI$TextToSpeechService$2$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TextToSpeechAPI$TextToSpeechService$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TextToSpeechAPI$TextToSpeechService.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/TextToSpeechAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ToastAPI$1$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ToastAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/ToastAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/VibrateAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/WifiAPI$1.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/WifiAPI$2.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/WifiAPI.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-08-12-48-57-153.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-08-12-48-57-153.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-08-12-51-49-148.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-08-12-51-49-148.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-11-48-16-836.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-11-48-16-836.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-11-52-12-159.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-11-52-12-159.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-16-17-446.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-16-17-446.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-19-29-208.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-19-29-208.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-28-24-584.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-28-24-584.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-29-49-863.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-29-49-863.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-32-39-780.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-32-39-780.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-33-12-160.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-33-12-160.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-34-28-171.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-34-28-171.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-36-42-923.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-36-42-923.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-38-16-695.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-38-16-695.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-41-36-008.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-41-36-008.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-43-05-163.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-43-05-163.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-45-05-234.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-45-05-234.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-46-45-795.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-46-45-795.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-51-05-347.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-51-05-347.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-53-14-793.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-53-14-793.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-54-49-242.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-54-49-242.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-58-54-798.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-13-58-54-798.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-14-16-57-038.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-14-16-57-038.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-14-18-42-776.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-22-14-18-42-776.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-12-23-31-762.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-12-23-31-762.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-13-40-26-757.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-13-40-26-757.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-13-50-53-240.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-13-50-53-240.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-08-47-162.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-08-47-162.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-19-42-725.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-19-42-725.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-20-53-477.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-14-20-53-477.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-18-56-43-327.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-18-56-43-327.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-19-52-48-347.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-19-52-48-347.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-20-08-52-876.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-26-20-08-52-876.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-37-50-875.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-37-50-875.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-39-32-319.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-39-32-319.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-41-09-785.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-41-09-785.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-41-42-840.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-41-42-840.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-43-45-369.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-43-45-369.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-46-07-260.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-12-46-07-260.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-02-43-404.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-02-43-404.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-05-53-424.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-05-53-424.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-07-44-736.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-07-44-736.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-09-48-495.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-09-48-495.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-11-37-502.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-11-37-502.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-25-28-920.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-25-28-920.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-28-14-120.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-28-14-120.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-33-49-329.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-33-49-329.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-40-02-037.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-40-02-037.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-44-55-201.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-27-13-44-55-201.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-28-01-36-33-698.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-28-01-36-33-698.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-28-01-38-34-829.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../termux-api/build/android-profile/profile-2017-11-28-01-38-34-829.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-08-12-47-19-275.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-08-12-47-19-275.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-08-12-48-14-087.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-08-12-48-14-087.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-22-11-47-22-902.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-22-11-47-22-902.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-22-13-17-32-444.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-22-13-17-32-444.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-12-13-53-277.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-12-13-53-277.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-13-39-41-800.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-13-39-41-800.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-18-54-45-797.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-18-54-45-797.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-19-51-55-491.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-19-51-55-491.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-20-08-09-508.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-11-26-20-08-09-508.rawproto" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/javaCompile/classAnalysis.bin" />
@@ -17,36 +288,127 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/4.2/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/../termux-api/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$2.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/BluetoothSendAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$2.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/BluetoothSendAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/NotificationAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/NotificationAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/NotificationAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/NotificationAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/util/ResultReturner$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/util/ResultReturner$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/util/ResultReturner.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/classes/debug/com/termux/api/util/ResultReturner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/NotificationAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/NotificationAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/NotificationAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/NotificationAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/util/ResultReturner$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/util/ResultReturner$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/util/ResultReturner.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental-verifier/debug/com/termux/api/util/ResultReturner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$1.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$1.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$2.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI$2.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/19/com/termux/api/BluetoothSendAPI.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/3.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/4.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$2.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/BluetoothSendAPI.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$2.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/BluetoothSendAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/NotificationAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/NotificationAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/NotificationAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/NotificationAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/util/ResultReturner$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/util/ResultReturner$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/util/ResultReturner.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/0/com/termux/api/util/ResultReturner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/termux/api/util/ResultReturner$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/termux/api/util/ResultReturner$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/termux/api/util/ResultReturner.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/com/termux/api/util/ResultReturner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/NotificationAPI$1.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/NotificationAPI$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/NotificationAPI.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/NotificationAPI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/com/termux/api/TermuxApiReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/../termux-api/app/build/outputs/apk/debug/app-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.2.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/11.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/7.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/9.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../termux-api/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/app.iml" afterPath="$PROJECT_DIR$/../termux-api/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRun/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/../termux-api/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/NotificationAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/NotificationAPI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothConnectionAPI.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/BluetoothConnectionAPI.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/TermuxApiReceiver.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/TermuxApiReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/util/ResultReturner.java" afterPath="$PROJECT_DIR$/../termux-api/app/src/main/java/com/termux/api/util/ResultReturner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal-emulator/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/terminal-emulator/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal-emulator/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/terminal-emulator/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal-view/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/terminal-view/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terminal-view/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/terminal-view/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +436,8 @@
       <file leaf-file-name="TermuxOpenReceiver.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/app/TermuxOpenReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="331">
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,14 +445,14 @@
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
           </provider>
         </entry>
       </file>
@@ -3684,10 +4046,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3702,12 +4062,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="device.picker.selection" value="0612886b0b10c788" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="AndroidTargetDevices" value="07f466ce" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3792,7 +4155,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511829330621" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511874457722" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3857,7 +4220,7 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
@@ -3892,7 +4255,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511829330622" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1511874457724" />
       </method>
     </configuration>
     <list size="1">
@@ -3935,19 +4298,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="741" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9936" sideWeight="0.5060423" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.49697885" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9936" sideWeight="0.4939577" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3955,16 +4318,15 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -4423,20 +4785,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/termux/app/TermuxOpenReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="331">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding />
         </state>
       </provider>
