@@ -102,6 +102,7 @@ public abstract class ResultReturner {
                     try (LocalSocket outputSocket = new LocalSocket()) {
                         String outputSocketAdress = intent.getStringExtra(SOCKET_OUTPUT_EXTRA);
                         outputSocket.connect(new LocalSocketAddress(outputSocketAdress));
+
                         try (PrintWriter writer = new PrintWriter(outputSocket.getOutputStream())) {
                             if (resultWriter != null) {
                                 if (resultWriter instanceof WithInput) {

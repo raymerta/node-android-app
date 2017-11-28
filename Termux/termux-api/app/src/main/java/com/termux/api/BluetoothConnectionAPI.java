@@ -1,23 +1,36 @@
 package com.termux.api;
 
+import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Handler;
 import android.os.Message;
+import android.util.JsonWriter;
 import android.util.Log;
 
 import com.termux.api.util.BluetoothChatService;
 import com.termux.api.util.Constants;
 import com.termux.api.util.ResultReturner;
+import com.termux.api.util.TermuxApiLogger;
 
 import java.io.PrintWriter;
-import java.util.ArrayList;
 
 /**
  * Created by raditaliem on 26/11/2017.
  */
 
-public class BluetoothSendAPI {
+public class BluetoothConnectionAPI {
+
+    private static String message = "";
+    private static String recipient = "";
+    private static TermuxApiReceiver termuxBluetoothApiReceiver = null;
+    private static Intent termuxBluetoothIntent = null;
+
+    /**
+     * Local Bluetooth adapter
+     */
+    private static BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
 
     /**
      * String buffer for outgoing messages
@@ -31,7 +44,10 @@ public class BluetoothSendAPI {
 
     public static void onReceive(TermuxApiReceiver apiReceiver, Context context, Intent intent) {
 
-        Log.d("BluetoothSend","inititate chat service");
+        termuxBluetoothApiReceiver = apiReceiver;
+        termuxBluetoothIntent = intent;
+
+        // Get local Bluetooth adapter
 
         // Initialize the BluetoothChatService to perform bluetooth connections
         mChatService = new BluetoothChatService(context, mHandler);
@@ -39,14 +55,62 @@ public class BluetoothSendAPI {
         // Initialize the buffer for outgoing messages
         mOutStringBuffer = new StringBuffer("");
 
-        ResultReturner.returnData(apiReceiver, intent, new ResultReturner.WithStringInput() {
-            @Override
-            public void writeResult(PrintWriter out) throws Exception {
-                Log.d("inputString", inputString);
-                sendMessage(inputString);
-            }
+        Log.d("BluetoothSend","inititate chat service");
+        String[] recipients = intent.getStringArrayExtra("recipients");
 
-        });
+        if (recipients == null) {
+            // Used by old versions of termux-send-sms.
+            recipient = intent.getStringExtra("recipient");
+            if (recipient != null) recipients = new String[]{recipient};
+        }
+
+        if (recipients == null || recipients.length == 0) {
+            TermuxApiLogger.error("No recipient given");
+        } else {
+            recipient = recipients[0];
+            Log.d("Recipient", recipient);
+
+            connectDevice(recipient, true);
+        }
+
+    }
+
+    public static void onSend(TermuxApiReceiver apiReceiver, Context context, Intent intent) {
+        termuxBluetoothApiReceiver = apiReceiver;
+        termuxBluetoothIntent = intent;
+
+        // Get local Bluetooth adapter
+
+        // Initialize the BluetoothChatService to perform bluetooth connections
+        mChatService = new BluetoothChatService(context, mHandler);
+
+        // Initialize the buffer for outgoing messages
+        mOutStringBuffer = new StringBuffer("");
+
+        Log.d("BluetoothSend","inititate chat service");
+        String[] recipients = intent.getStringArrayExtra("recipients");
+
+        if (recipients == null) {
+            // Used by old versions of termux-send-sms.
+            recipient = intent.getStringExtra("recipient");
+            if (recipient != null) recipients = new String[]{recipient};
+        }
+
+        if (recipients == null || recipients.length == 0) {
+            TermuxApiLogger.error("No recipient given");
+        } else {
+            recipient = recipients[0];
+            Log.d("Recipient", recipient);
+
+            connectDevice(recipient, true);
+            ResultReturner.returnData(apiReceiver, intent, new ResultReturner.WithStringInput() {
+                @Override
+                public void writeResult(PrintWriter out) throws Exception {
+                    Log.d("inputString", inputString);
+                    message = inputString;
+                }
+            });
+        }
     }
 
     /**
@@ -75,18 +139,33 @@ public class BluetoothSendAPI {
     }
 
     /**
+     * Establish connection with other device
+     */
+    private static void connectDevice(String address, boolean secure) {
+        // Get the BluetoothDevice object
+        BluetoothDevice device = mBluetoothAdapter.getRemoteDevice(address);
+        // Attempt to connect to the device
+        mChatService.connect(device, secure);
+    }
+
+    /**
      * The Handler that gets information back from the BluetoothChatService
      */
     private static final Handler mHandler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
+            Log.d("mHandler","Something is passing through me");
+            Log.d("msg.what", Integer.toString(msg.what));
+
             //FragmentActivity activity = getActivity();
             switch (msg.what) {
                 case Constants.MESSAGE_STATE_CHANGE:
+                    Log.d("msg.arg1", Integer.toString(msg.arg1));
                     switch (msg.arg1) {
                         case BluetoothChatService.STATE_CONNECTED:
                             //setStatus(getString(R.string.title_connected_to, mConnectedDeviceName));
                             //mConversationArrayAdapter.clear();
+                            BluetoothConnectionAPI.sendMessage(message);
                             break;
                         case BluetoothChatService.STATE_CONNECTING:
                             //setStatus(R.string.title_connecting);
@@ -100,14 +179,25 @@ public class BluetoothSendAPI {
                 case Constants.MESSAGE_WRITE:
                     byte[] writeBuf = (byte[]) msg.obj;
                     // construct a string from the buffer
-                    String writeMessage = new String(writeBuf);
+                    final String writeMessage = new String(writeBuf);
                     //mConversationArrayAdapter.add("Me:  " + writeMessage);
+
                     break;
                 case Constants.MESSAGE_READ:
                     byte[] readBuf = (byte[]) msg.obj;
                     // construct a string from the valid bytes in the buffer
-                    String readMessage = new String(readBuf, 0, msg.arg1);
+                    final String readMessage = new String(readBuf, 0, msg.arg1);
                     //mConversationArrayAdapter.add(mConnectedDeviceName + ":  " + readMessage);
+
+                    ResultReturner.returnData(termuxBluetoothApiReceiver, termuxBluetoothIntent, new ResultReturner.ResultJsonWriter() {
+                        @Override
+                        public void writeJson(JsonWriter out) throws Exception {
+                            out.beginObject();
+                            out.name(recipient).value(readMessage);
+                            out.endObject();
+                        }
+                    });
+
                     break;
                 case Constants.MESSAGE_DEVICE_NAME:
                     // save the connected device's name
@@ -126,4 +216,6 @@ public class BluetoothSendAPI {
             }
         }
     };
+
+
 }

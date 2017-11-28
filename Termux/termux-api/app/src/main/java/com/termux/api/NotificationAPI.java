@@ -27,6 +27,7 @@ public class NotificationAPI {
      * Show a notification. Driven by the termux-show-notification script.
      */
     static void onReceiveShowNotification(TermuxApiReceiver apiReceiver, final Context context, final Intent intent) {
+
         String priorityExtra = intent.getStringExtra("priority");
         if (priorityExtra == null) priorityExtra = "default";
         int priority;
